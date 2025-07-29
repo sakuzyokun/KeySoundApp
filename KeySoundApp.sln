@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeySoundApp", "KeySoundApp\KeySoundApp.csproj", "{CFA64E5D-DD01-4C49-9C4A-877CEAB5F7E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFA64E5D-DD01-4C49-9C4A-877CEAB5F7E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA64E5D-DD01-4C49-9C4A-877CEAB5F7E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA64E5D-DD01-4C49-9C4A-877CEAB5F7E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA64E5D-DD01-4C49-9C4A-877CEAB5F7E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {262DC931-CEEE-4654-9D3B-E5D7E8C8C6D6}
+	EndGlobalSection
+EndGlobal
